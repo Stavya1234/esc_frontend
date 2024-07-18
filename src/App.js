@@ -1,14 +1,12 @@
 import React from 'react';
-import  LandingPage from './landingPage.js';
+import YourDetail from './yourDetails';
 
 
 function App () {
   return (
-    <>
+    <> 
+      <YourDetail/>
       
-      <LandingPage />
-      
-
     </>
   )
 }
