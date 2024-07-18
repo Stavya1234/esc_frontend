@@ -12,7 +12,7 @@ function PageHeader(){
                 <li className="ContactUs">
                     <a href="#contactus">Contact Us</a>
                 </li>
-                <li className="SGD"><button>SGD</button></li>
+                <li className="SGD"><button>SGD ▼</button></li>
             </ul>
         
         </header>
