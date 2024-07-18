@@ -45,4 +45,13 @@ li {
 .SignIn {
     font-size: 16px;
     cursor: pointer;
+    
+}
+li a{
+    text-decoration:none;
+    color: #242B59;
+}
+
+li a:hover{
+    color:#5f57c7;
 }
