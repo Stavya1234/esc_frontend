@@ -1,0 +1,19 @@
+.tick{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    bottom: 2040px;
+    left:120px;
+}
+.two{
+    position: relative;
+    bottom: 2105px;
+    left:521px;
+}
+
+.three{
+    position: relative;
+    bottom:2165px;
+    left:913px;
+
+}

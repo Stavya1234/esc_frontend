@@ -1,12 +1,11 @@
 import React from 'react';
-import YourDetail from './yourDetails';
+import YourDetail from './yourDetail';
 
 
 function App () {
   return (
     <> 
       <YourDetail/>
-      
     </>
   )
 }
