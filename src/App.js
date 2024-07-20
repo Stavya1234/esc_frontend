@@ -1,11 +1,11 @@
 import React from 'react';
-import YourDetail from './yourDetail';
+import PaymentPage from './paymentPage';
 
 
 function App () {
   return (
     <> 
-      <YourDetail/>
+      <PaymentPage/>
     </>
   )
 }
