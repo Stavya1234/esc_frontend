@@ -1,0 +1,14 @@
+.PaymentaMethod{
+    background-color: #d3d3d3;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 1020px;
+}
+.Paynow{
+    width: 100px;
+    height:auto;
+}
+.Creditcard{
+    width: 40px;
+    height: auto;
+}
